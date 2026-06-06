@@ -6,7 +6,7 @@ An interactive Excel dashboard for tracking key financial metrics and performanc
 
 ## 📸 Preview
 
-![Financial Performance Dashboard](Finance.JPG)
+![Financial Performance Dashboard](Financial.JPG)
 
 ---
 
@@ -15,7 +15,7 @@ An interactive Excel dashboard for tracking key financial metrics and performanc
 | File | Description |
 |---|---|
 | `Finance.xlsx` | Main Excel dashboard file |
-| `Finance.JPG` | Dashboard screenshot preview |
+| `Financial.JPG` | Dashboard screenshot preview |
 
 ---
 
