@@ -6,7 +6,7 @@ An interactive Excel dashboard for tracking key financial metrics and performanc
 
 ## 📸 Preview
 
-![Financial Performance Dashboard](Financial.JPG)
+![Financial Performance Dashboard](Finance.JPG)
 
 ---
 
@@ -14,8 +14,8 @@ An interactive Excel dashboard for tracking key financial metrics and performanc
 
 | File | Description |
 |---|---|
-| `financial_performance_dashboard.xlsx` | Main Excel dashboard file |
-| `dashboard.png` | Dashboard screenshot preview |
+| `Finance.xlsx` | Main Excel dashboard file |
+| `Finance.JPG` | Dashboard screenshot preview |
 
 ---
 
@@ -103,7 +103,7 @@ An interactive Excel dashboard for tracking key financial metrics and performanc
 
 ## 📌 How to Use
 
-1. Download the `financial_performance_dashboard.xlsx` file
+1. Download the `Finance.xlsx` file
 2. Open in **Microsoft Excel**
 3. Use the **Year** slicer to filter by 2023, 2024, or 2025
 4. Use the **Region** slicer to drill down by geographic area
